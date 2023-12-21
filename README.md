@@ -1,5 +1,5 @@
 # Website Inventory Application
-InvenWare (Inventory Warehouse) is a web-based inventory application for warehouse inventory management at PT Cahaya Mulia Adhilestari. This application has features; home page, supplier data page, incoming goods page, and outgoing goods page.
+IWare (Inventory Warehouse) is a web-based inventory application for warehouse inventory management at PT Cahaya Mulia Adhilestari. This application has features; home page, supplier data page, incoming goods page, and outgoing goods page.
 
 ## Screenshots 🖥️ 
 Halaman Home: 
