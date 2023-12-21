@@ -3,7 +3,7 @@ InvenWare (Inventory Warehouse) adalah aplikasi inventory berbasis web untuk man
 
 ## Screenshots 🖥️ 
 Halaman Home: 
-![](https://github.com/Chafithafid30/Warehouse-Inventory Application/blob/fad25a64d844b53474d5af2b92d41becb57af52b/Home.png)
+![](https://github.com/Chafithafid30/Warehouse-Inventory-Application/blob/3a4d57968bffbb85548b12aec38f951679f6ce5f/Home.png)
 
 Halaman Data Supplier: 
 ![](https://github.com/Chafithafid30/Warehouse-Inventory-Application/blob/fad25a64d844b53474d5af2b92d41becb57af52b/Halaman%20Data%20Supplier.png)
