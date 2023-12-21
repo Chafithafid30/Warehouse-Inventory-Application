@@ -1,2 +1,2 @@
-# StockGu
-StockGu (Stock Gudang) adalah aplikasi web simple untuk manajemen inventory. terdapat beberapa menu yaitu menu barang untuk melakukan crud barang, menu supplier, dan menu mutasi barang
+# Website Inventory Application
+InvenWare (Inventory Warehouse) adalah aplikasi inventory berbasis web untuk manajemen inventory gudang di PT. Cahaya Mulia Adhilestari. Aplikasi ini memiliki fitur; halaman home, halaman data supplier, halaman barang masuk, dan halaman barang keluar
