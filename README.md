@@ -1,5 +1,5 @@
 # Website Inventory Application
-InWare (Inventory Warehouse) adalah aplikasi inventory berbasis web untuk manajemen inventory gudang di PT. Cahaya Mulia Adhilestari. Aplikasi ini memiliki fitur; halaman home, halaman data supplier, halaman barang masuk, dan halaman barang keluar
+InvenWare (Inventory Warehouse) is a web-based inventory application for warehouse inventory management at PT Cahaya Mulia Adhilestari. This application has features; home page, supplier data page, incoming goods page, and outgoing goods page.
 
 ## Screenshots 🖥️ 
 Halaman Home: 
@@ -13,3 +13,13 @@ Halaman Barang Masuk:
 
 Halaman Barang Keluar:
 ![](https://github.com/Chafithafid30/Warehouse-Inventory-Application/blob/fad25a64d844b53474d5af2b92d41becb57af52b/Halaman%20Barang%20Keluar.png)
+
+## Build With 🛠
+- [HTML] - a standardized markup language for documents designed to be displayed in internet browsers.
+- [CSS] - is a rule to organize several components in a web so that it will be more structured and uniform.
+- [PHP Native](https://www.php.net/) - a scripting language with common functions that is mainly used for web development.
+- [MySQL](https://www.mysql.com/) - SQL database management system software or DBMS that is multi-line, multi-user used as data storage.
+
+## Architecture 🗼
+
+This app uses [***Prosedural)***] architecture.
