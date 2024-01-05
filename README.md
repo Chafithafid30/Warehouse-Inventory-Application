@@ -19,7 +19,7 @@ Halaman Barang Keluar:
 - [CSS3] - is a rule to organize several components in a web so that it will be more structured and uniform.
 - [Bootstrap](https://getbootstrap.com/) - Responsive Design
 - [Javascript](https://ecma-international.org/) - Asynchronous Data Loading and makes the website more interactive.
-- [jQuery](https://jquery.com/) - Promises and Async/Await
+- [AJAX] - Promises and Async/Await
 - [PHP](https://www.php.net/) - a scripting language with common functions that is mainly used for web development.
 - [MySQL](https://www.mysql.com/) - SQL database management system software or DBMS that is multi-line, multi-user used as data storage.
 
