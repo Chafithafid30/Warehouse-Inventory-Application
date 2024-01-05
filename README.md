@@ -22,4 +22,4 @@ Halaman Barang Keluar:
 
 ## Architecture 🗼
 
-This app uses [***Prosedural)***] architecture.
+This app uses [***OOP Paradigm(Object Oriented Programming)***] architecture.
